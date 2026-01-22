@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full-Stack Developer passionate about building modern web apps and always eager to learn.<br>🤝 I’m looking for freelance work<br>🌱 I’m currently learning Svelte<br>⚡ Reach me at ahmedsibteali14@gmail.com
+💻 Full-Stack Developer passionate about building modern web apps and always eager to learn.<br>🤝 I’m looking for freelance work<br>🌱 I’m currently working with Flutter<br>⚡ Reach me at ahmedsibteali14@gmail.com
 
 
 ## 🌐 Socials:
